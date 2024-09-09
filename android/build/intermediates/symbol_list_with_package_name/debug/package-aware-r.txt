@@ -1,0 +1,3 @@
+com.RNFetchBlob
+string app_name
+xml provider_paths

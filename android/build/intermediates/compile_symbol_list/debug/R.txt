@@ -1,0 +1,2 @@
+int string app_name 0x0
+int xml provider_paths 0x0
